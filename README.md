@@ -15,6 +15,7 @@
 
 ## 文件结构
 
+```
 chunwan_reproduce_zq
  ┣ 完整方案_春晚舞蹈机器人复刻.md         # Key：My 方案
  ┃
@@ -29,3 +30,4 @@ chunwan_reproduce_zq
  ┃ ┗ show_result.mp4
  ┃
  ┗ README.md
+```
